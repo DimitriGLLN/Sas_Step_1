@@ -184,12 +184,13 @@ select {
   background-color: #1c6ce4;
   color: #fff;
   border-radius: 1rem;
+  border: 1px solid #1c6ce4;
   transition: 0.3s;
   margin-top: 2rem;
 }
 .card-link:hover, .card-link:focus {
-  background-color: #1c6ce4;
-  color: #fff;
+  background-color: #fff;
+  color: #1c6ce4;
 }
 
 body {
